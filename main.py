@@ -13,7 +13,7 @@ commands = '/start - запустить бота, ' \
             '/restart - Очистить историю ответов'
 
 BATTLE_SCORE = {}
-token = "6753869407:AAGtdcliZIKDlte9m5ZuVkR_OmhnhbRrHac"
+
 bot = telebot.TeleBot(token=token)
 
 WHEEL_FORTUNE = {
